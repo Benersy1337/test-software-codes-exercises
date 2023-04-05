@@ -1,0 +1,6 @@
+Criar um projeto behave com no mínimo duas features e 16 steps. 
+
+Apresentação Individual no dia 05/04.
+
+Peso: 30% da média final.
+
