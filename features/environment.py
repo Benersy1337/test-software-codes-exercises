@@ -13,7 +13,7 @@ def before_scenario(context, scenario):
 
 def after_scenario(context,scenario):
     print()
-    #print("Pessoa cadastrada: "+context.pessoa)
+    
 
 
 def after_all(context):  

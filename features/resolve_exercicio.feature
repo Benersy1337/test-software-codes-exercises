@@ -6,10 +6,13 @@ Funcionalidade: Inserir código Javascript em um site de exercicio e acertar o p
     '''
 
     Cenario: Resolver Exercicio Javascript
-    Dado acesso a pagina inicial do front editor
-    Quando insiro o codigo js
-   
-
-    
-    
+    Dado acesso a pagina do w3schools
+    Quando coloco a variavel
+    E coloco o valor da variavel
+    E clico no botao submit
+    E clico na div next
+    E clico em js arrays
+    E clico em exercicio 1
+    E atribuo valor a variavel do array
+    Entao clico no botao para verificar resposta
     
